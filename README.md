@@ -1,1 +1,1 @@
-# VuforiaMidAir
+# VuforiaMidAir Resources
